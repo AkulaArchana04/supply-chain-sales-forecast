@@ -38,7 +38,7 @@ supply-chain-sales-forecast/
 │
 ├── prepare_data.py
 ├── forecast_model.py
-├── app.py
+├── g.py
 ├── requirements.txt
 └── README.md
 
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 3. **Run the Streamlit app**
 
 
-streamlit run app.py
+streamlit run g.py
 
 4. Open your browser to:
 
